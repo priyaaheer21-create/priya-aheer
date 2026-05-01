@@ -18,7 +18,7 @@
 using namespace std;
 
 int main() {
-    int age;
+  int age;
     cin >> age;
     
     if(age >= 18) {
